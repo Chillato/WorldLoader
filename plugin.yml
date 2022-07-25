@@ -1,0 +1,5 @@
+name: WorldLoaderV2
+main: Chillato\WorldLoader\WorldLoader
+api: 4.0.0
+version: 1.0.0
+author: Chillato
